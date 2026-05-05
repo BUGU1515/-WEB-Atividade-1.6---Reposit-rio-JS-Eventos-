@@ -1,0 +1,26 @@
+body {
+    margin: 0;
+    height: 100vh;
+
+    display: flex;
+    justify-content: center;
+    align-items: center;
+
+    font-family: Arial, sans-serif;
+}
+
+.container {
+    text-align: center;
+}
+
+#result {
+    font-size: 40px;
+    margin-bottom: 20px;
+}
+
+button {
+    font-size: 20px;
+    padding: 10px 20px;
+    margin: 5px;
+    cursor: pointer;
+}
